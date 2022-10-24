@@ -17,5 +17,6 @@
     background-color: rgb(0, 0, 0);
     color: rgb(0,0,0);
     border-radius: 30px;
+    border: none;
     overflow: hidden;
 }
